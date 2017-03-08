@@ -1,6 +1,6 @@
 # ZambroseViewTool
 
->Various view specific methods for appliactions I use.
+>Various view specific methods for appliactions I use. 
 
 ## Installation
 
@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install zambrose_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+``` ruby
+ZambroseViewTool::Renderer.copyright "Zac Ambrose", "All rights reserved"
+```
 
 ## Development
 

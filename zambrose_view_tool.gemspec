@@ -6,12 +6,12 @@ require 'zambrose_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "zambrose_view_tool"
   spec.version       = ZambroseViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Zac Ambrose"]
   spec.email         = ["zambrose2017@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for appliactions i use}
   spec.description   = %q{Tprovides generated HTML data for Rails appliactions}
-  spec.homepage      = "nohomepage"
+  spec.homepage      = "http://nohomepage.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
